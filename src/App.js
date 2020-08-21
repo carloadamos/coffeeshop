@@ -16,6 +16,33 @@ function App() {
           <p className="hero-text">CONTACT US</p>
         </div>
         <div className="contact-content">
+          <div className="contact-wrapper">
+            <div className="contact__image-wrapper">
+              <img className="contact__image" />
+            </div>
+            <div className="contact__form">
+              <div className="contact__header">
+                <p>Have an inquiry or some feedback for us?</p>
+                <p>Fill out the form below to contact our team</p>
+              </div>
+              <div className="contact__name contact__input">
+                <p className="contact__form-title">Name</p>
+                <input type="text" />
+              </div>
+              <div className="contact__number contact__input">
+                <p className="contact__form-title">Contact number</p>
+                <input type="text" />
+              </div>
+              <div className="contact__email contact__input">
+                <p className="contact__form-title">Email address</p>
+                <input type="text" />
+              </div>
+              <div className="contact__message contact__input">
+                <p className="contact__form-title">Message</p>
+                <textarea rows="10"></textarea>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div >
