@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "764b8ce11c39066b2558c72a36f94310",
+    "revision": "0d28316bf1d33085586e0b3d5650352a",
     "url": "/coffeeshop/index.html"
   },
   {
-    "revision": "a157c9517245e49171ce",
-    "url": "/coffeeshop/static/css/main.3c6c7c16.chunk.css"
+    "revision": "fff351fbccdc4d84bf73",
+    "url": "/coffeeshop/static/css/main.abc25dfe.chunk.css"
   },
   {
     "revision": "03f9f1c776303685fa56",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coffeeshop/static/js/2.29945da8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a157c9517245e49171ce",
-    "url": "/coffeeshop/static/js/main.157f865e.chunk.js"
+    "revision": "fff351fbccdc4d84bf73",
+    "url": "/coffeeshop/static/js/main.77419503.chunk.js"
   },
   {
     "revision": "7bfe8d6e981f78c80650",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a80656595c106788a4e8368b37405857",
     "url": "/coffeeshop/static/media/coffee-plain.a8065659.png"
+  },
+  {
+    "revision": "92b855b526db5222d3d31118d129cb8d",
+    "url": "/coffeeshop/static/media/contact.92b855b5.png"
   },
   {
     "revision": "52948ed640fcf173b55c8a27fa249c64",
